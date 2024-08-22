@@ -1,0 +1,5 @@
+I'm a seasoned mobile application developer with a strong track record in the financial services industry. My expertise includes developing scalable and high-performance mobile apps, with proficiency in both native and cross-platform frameworks. I'm also enthusiastic about cloud technologies, and I have a solid grasp of end-to-end system architecture, which allows me to build solutions that are both robust and efficient.
+
+With a Bachelor's degree in Computer Engineering from Pimpri Chinchwad College of Engineering, I have a deep technical foundation that complements my hands-on experience. I’m passionate about creating seamless user experiences and constantly exploring new technologies to push the boundaries of what’s possible in mobile development.
+
+Here on GitHub, you'll find a collection of my projects, from innovative mobile apps to experimental work with cloud integrations. I'm always open to collaboration, so feel free to reach out if you're interested in working together or if you have any questions.
